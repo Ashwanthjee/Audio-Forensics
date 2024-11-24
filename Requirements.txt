@@ -23,3 +23,15 @@ Usage
  3. Run the Program:
 	python audio_matcher.py
 
+
+
+
+SAMPLE OUPUT:
+
+MFCC for suspect file (suspect_sample.wav):
+[ 12.34, -8.91, 5.12, ... ]
+
+Cosine Similarity between suspect and call 1 (call_recording1.wav): 0.89
+Cosine Similarity between suspect and call 2 (call_recording2.wav): 0.76
+
+
