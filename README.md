@@ -7,6 +7,9 @@ This project demonstrates the application of audio forensics to match a suspect'
 Features
 
 -Extracts MFCC features from audio samples.
+
 -Computes similarity scores using cosine similarity.
+
 -Processes multiple audio files efficiently.
+
 -Provides an automated and reproducible workflow for voice matching.
